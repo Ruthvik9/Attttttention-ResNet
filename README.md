@@ -1,4 +1,5 @@
 # Attention Incorporated ResNet-18 Backbone for Faster R-CNN (Object Detection)
+The following are some results I got post training my model -
 
 ![image](https://github.com/Ruthvik9/Attttttention-ResNet/assets/74010232/8fa441dc-324c-4530-a291-fe5088cef4f8)
 
